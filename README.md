@@ -11,7 +11,8 @@ faTwoBit的使用方式：
 faToTwoBit input.fa output.2bit
 
 ```
-
+### alignDB 
+alignDB 可能指的是用于数据对齐（alignment）或数据管理的工具或库。在生物信息学领域，数据对齐通常是将不同样本的生物数据（例如 DNA 或蛋白质序列）进行比对和匹配的过程，以便进行进一步的分析
 
 
 ## 通用工具
